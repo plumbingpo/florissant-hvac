@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://florissanthvac.com/sitemap.xml
